@@ -1,2 +1,2 @@
 # Algorithm
-Golanng implementation of Algorithms
+Golang implementation of Algorithms
